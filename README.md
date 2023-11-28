@@ -1,5 +1,16 @@
 # CRM
 
+![image](https://github.com/alif-dot/Authentication-Authrization-in-Angular16/assets/62230465/d5c17f3e-71eb-4ca2-999a-2a7fd58e509d)
+
+![image](https://github.com/alif-dot/Authentication-Authrization-in-Angular16/assets/62230465/56f688fe-cbe0-4d87-983d-221f78f98b57)
+
+![image](https://github.com/alif-dot/Authentication-Authrization-in-Angular16/assets/62230465/86e57ee3-7eca-4eed-8745-6ffd6e288399)
+
+![image](https://github.com/alif-dot/Authentication-Authrization-in-Angular16/assets/62230465/a6b63b56-a26d-4a2b-a800-55270296d70b)
+
+![image](https://github.com/alif-dot/Authentication-Authrization-in-Angular16/assets/62230465/216d9b63-1668-47ae-9de8-7fe807eea8c6)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.7.
 
 ## Development server
