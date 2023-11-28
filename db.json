@@ -1,0 +1,143 @@
+{
+  "user": [
+    {
+      "id": "ealif",
+      "name": "Easin Alif",
+      "password": "S123456_",
+      "email": "alif@uysys.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "zaya",
+      "name": "Zubaida Zaya",
+      "password": "S123456_",
+      "email": "zaya@uysys.com",
+      "gender": "female",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "fatiha",
+      "name": "Fatiha Ayat",
+      "password": "S123456_",
+      "email": "fatiha@uysys.com",
+      "gender": "female",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "nahiyean",
+      "name": "Nahiyean Adil",
+      "password": "S123456_",
+      "email": "adil@uysys.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "amir",
+      "name": "Amir Ahsan",
+      "password": "S123456_",
+      "email": "amir@uysys.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "jeni",
+      "name": "Zubaida Jeni",
+      "password": "S123456_",
+      "email": "jeni@uysys.com",
+      "gender": "female",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "fahima",
+      "name": "Fahima Ayat",
+      "password": "S123456_",
+      "email": "fahima@uysys.com",
+      "gender": "female",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "sufiyan",
+      "name": "Sufiyan Safil",
+      "password": "S123456_",
+      "email": "sufiyan@uysys.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "jacky",
+      "name": "Jacky Josef",
+      "password": "S123456_",
+      "email": "jacky@uysys.com",
+      "gender": "male",
+      "role": "admin",
+      "isactive": true
+    },
+    {
+      "id": "nura",
+      "name": "Nura Fatehi",
+      "password": "S123456_",
+      "email": "nura@uysys.com",
+      "gender": "female",
+      "role": "",
+      "isactive": true
+    },
+    {
+      "id": "sabbir",
+      "name": "Sabbir Ayat",
+      "password": "S123456_",
+      "email": "sabbir@uysys.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "sami",
+      "name": "Ariyan Sami",
+      "password": "S123456_",
+      "email": "sami@uysys.com",
+      "gender": "male",
+      "role": "",
+      "isactive": false
+    },
+    {
+      "id": "nadiya",
+      "name": "Nadiya Nevula",
+      "password": "Sa@123456",
+      "email": "nadiya@uysys.com",
+      "gender": "female",
+      "role": "hr",
+      "isActive": true
+    }
+  ],
+  "role": [
+    {
+      "code": "hr",
+      "name": "HR"
+    },
+    {
+      "code": "manager",
+      "name": "Manager"
+    },
+    {
+      "code": "sales",
+      "name": "Sales"
+    },
+    {
+      "code": "telecaller",
+      "name": "Telecaller"
+    },
+    {
+      "code": "executive",
+      "name": "Executive"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+.table-container {
+    width: 50%;
+    overflow-x: auto; /* Enable horizontal scrolling if needed */
+  }
+  
+  th, td {
+    max-width: 100px; /* Adjust the value based on your preference */
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  

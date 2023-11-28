@@ -1,0 +1,36 @@
+.signup-card {
+    max-width: 500px;
+    margin: auto;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .signup-form {
+    width: 100%;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+  
+  .button-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  
+  .back-to-login {
+    margin-left: auto;
+    opacity: 1; /* Ensure full opacity at all times */
+  }
+  
+  .back-to-login a {
+    color: #1976D2; /* Adjust the color to your preference */
+  }
+  /* Optional: Add some padding or margin to the form fields for spacing */
+  .mat-form-field {
+    margin-bottom: 20px;
+  }
+  
